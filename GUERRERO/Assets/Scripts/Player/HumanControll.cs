@@ -5,6 +5,7 @@ using Photon.Pun;
 
 public class HumanControll : MonoBehaviour
 {
+    //TEST PUSH 
      PhotonView view;
      float inputX;
      float inputZ;

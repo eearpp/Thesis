@@ -16,6 +16,7 @@ public class CameraFollow : MonoBehaviourPunCallbacks
         {
             player = GameObject.FindWithTag("Player");
         }
+        Debug.Log("Founded");
         Vector3 desiredPosition = player.transform.position + offset;
         Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed);
         transform.position = smoothedPosition;
