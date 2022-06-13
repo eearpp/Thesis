@@ -5,8 +5,16 @@ using Photon.Pun;
 
 public class HumanControll : MonoBehaviour
 {
-    //TEST PUSH 
-     PhotonView view;
+    //TEST PUSH asdasdadasdasdasdasdasddasdasdasdasdadadadasdasd
+    //TEST PUSH asdasdadasdasdasdasdasddasdasdasdasdadadadasdasd
+    //TEST PUSH asdasdadasdasdasdasdasddasdasdasdasdadadadasdasd
+    //TEST PUSH asdasdadasdasdasdasdasddasdasdasdasdadadadasdasd
+    //TEST PUSH asdasdadasdasdasdasdasddasdasdasdasdadadadasdasd
+    //TEST PUSH asdasdadasdasdasdasdasddasdasdasdasdadadadasdasd
+    //TEST PUSH asdasdadasdasdasdasdasddasdasdasdasdadadadasdasd
+    //TEST PUSH asdasdadasdasdasdasdasddasdasdasdasdadadadasdasd
+
+    PhotonView view;
      float inputX;
      float inputZ;
      Vector3 direction;
